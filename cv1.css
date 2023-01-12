@@ -1,0 +1,138 @@
+.page{
+	width: 1100px;
+	margin: auto;
+	font-family: 'Source sans Pro', Calibri,Tahoma, sans-ser;
+	font-size: 16px;
+	position:relative;
+	top: -30px;
+	
+}
+
+.infophoto{
+	height: 250px;
+}
+
+.info{
+	position:relative;
+	float: right;
+	top: 230px;
+	left: 200px;
+}
+
+.photo{
+	position:relative;
+	left: 400px;
+	top: 25px;
+	float: right;
+}
+
+.section{
+	margin-bottom: 70px;
+	position:relative;
+	top: -20px;
+	
+}
+
+.sec-gauche{
+	float: left;
+	font-weight: bold;
+	font-size: 20px;
+	position:relative;
+	top:10px;
+}
+
+.sec-droite{
+	margin-left: 150px;
+	margin-top: 150x;
+	position:relative;
+	top: 30px;
+}
+
+h2{
+	position: relative;
+	top: 75px;
+	font-size: 28px;
+	color: #3388BB;
+	border-bottom: 3px solid #3388DD;
+}
+
+.duree{
+	font-weight: normal;
+	font-style: italic;
+	font-size: 20px;
+	
+}
+
+.titre{
+	font-weight: bold;
+	font-size: 15px;
+	position: relative;
+	top: 5px;
+	
+}
+
+#forma-gauche p{
+	margin-bottom: 40px;
+} 
+
+#exp-gauche p{
+	margin-top: 20px;
+}
+
+#lang-droite-sub p{
+	position:relative;
+	top: -55px;
+	left: 25px;
+}
+
+#lang-droite {
+	line-height: 25px;
+}
+
+#interet-droite{
+	margin-top: 60px;
+}
+
+strong{
+	font-size: 22px;
+}
+
+#lang-sport p{
+	position:relative;
+	top: -50px;
+}
+
+#lang-ecole p{
+	position:relative;
+	top: -15px
+}
+
+#lang-langues p{
+	position:relative;
+	top:40px;
+}
+
+#lang-date p{
+	position:relative;
+	top:65px;
+}
+
+#lang-travail p{
+	position:relative;
+	top: 15px;
+	left: 15px;
+}
+
+#lang-duree p{
+	position:relative;
+	top: 35px;
+}
+
+#lang-stage p{
+	position:relative;
+	top: -25px;
+}
+
+#lang-benevole p{
+	
+}
